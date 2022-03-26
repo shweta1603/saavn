@@ -160,6 +160,16 @@ margin-left: 20px;
     height: 72%;
     width: 100%;
 }
+.overlay-2:hover{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 150px;
+    background-color: black;
+    opacity: 0.4;
+}
 .music-card-2{
     height: 100%;
     width: 34%;
